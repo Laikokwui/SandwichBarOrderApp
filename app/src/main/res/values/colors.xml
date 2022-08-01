@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#351718</color>
+    <color name="colorPrimaryDark">#2B1313</color>
+    <color name="colorAccent">#D03462</color>
+    <color name="colorSectionBar">#FBEDD7</color>
+    <color name="colorSectionText">#674122</color>
+    <color name="colorTotalPrice">#B5402F</color>
+    <color name="colorLine">#DFCBAE</color>
+    <color name="alertBoxText">#774E3B</color>
+</resources>

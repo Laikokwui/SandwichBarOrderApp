@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Sandwich Bar</string>
+    <string name="filling">Filling</string>
+    <string name="side">Side</string>
+    <string name="size">Size</string>
+    <string name="add_on">Add-on</string>
+    <string name="six_inch">6 inch</string>
+    <string name="nine_inch">9 inch</string>
+    <string name="twelve_inch">12 inch</string>
+    <string name="total">Total:</string>
+    <string name="total_price">RM 7.00</string>
+    <string name="ham">Ham Slices</string>
+    <string name="roasted_chicken">Roasted Chicken</string>
+    <string name="beef_steak">Beef Steak</string>
+    <string name="grilled_salmon">Grilled Salmon</string>
+    <string name="kebab">Kebab</string>
+    <string name="tomato">Tomato</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="onion">Onion</string>
+    <string name="cheese">Cheese</string>
+    <string name="tea">Tea</string>
+    <string name="coffee">Coffee</string>
+    <string name="french_fries">French fries</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="btn_order">Button Order</string>
+    <string name="btn_reset">Button Reset</string>
+    <string name="banner">Banner My Sandwich Bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
